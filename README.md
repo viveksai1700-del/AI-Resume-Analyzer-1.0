@@ -87,7 +87,7 @@ http://localhost:8501
 
 ## Author
 
-**Sai Vivek**
+**Mittapally Sai Vivek**
 
 Computer Science & Engineering Student
 
