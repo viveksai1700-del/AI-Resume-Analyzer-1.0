@@ -91,7 +91,7 @@ http://localhost:8501
 
 Computer Science & Engineering Student
 
-GitHub: [github.com/viveksai1700-del](https://github.com/viveksai1700-del)
+GitHub : [github.com/viveksai1700-del](https://github.com/viveksai1700-del)
 
 ---
 
