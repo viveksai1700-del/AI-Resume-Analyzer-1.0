@@ -15,12 +15,12 @@ Users can upload a PDF resume and instantly view:
 
 ## Features
 
-* PDF resume upload
-* Automatic resume text extraction
-* Technical skill detection
-* Resume scoring system
-* Improvement suggestions
-* Simple and responsive Streamlit interface
+* PDF resume upload.
+* Automatic resume text extraction.
+* Technical skill detection.
+* Resume scoring system.
+* Improvement suggestions.
+* Simple and responsive Streamlit interface.
 
 ## Tech Stack
 
