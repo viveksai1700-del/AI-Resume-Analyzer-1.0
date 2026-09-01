@@ -79,7 +79,7 @@ http://localhost:8501
 
 * AI-powered resume feedback.
 * Job description upload and matching.
-* ATS compatibility analysis
+* ATS compatibility analysis.
 * Experience and education extraction
 * Resume section analysis
 * Downloadable analysis reports
