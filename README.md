@@ -9,7 +9,7 @@ The **AI Resume Analyzer** helps students and job seekers quickly evaluate their
 Users can upload a PDF resume and instantly view:
 
 * Resume match score.
-* Detected technical skills
+* Detected technical skills.
 * Suggested skills to consider adding
 * Resume analysis results
 
