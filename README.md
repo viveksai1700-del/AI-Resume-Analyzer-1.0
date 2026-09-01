@@ -10,7 +10,7 @@ Users can upload a PDF resume and instantly view:
 
 * Resume match score.
 * Detected technical skills.
-* Suggested skills to consider adding
+* Suggested skills to consider adding.
 * Resume analysis results
 
 ## Features
