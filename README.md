@@ -82,7 +82,7 @@ http://localhost:8501
 * ATS compatibility analysis.
 * Experience and education extraction.
 * Resume section analysis.
-* Downloadable analysis reports
+* Downloadable analysis reports.
 * LLM integration for personalized recommendations
 
 ## Author
