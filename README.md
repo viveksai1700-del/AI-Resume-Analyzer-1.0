@@ -83,7 +83,7 @@ http://localhost:8501
 * Experience and education extraction.
 * Resume section analysis.
 * Downloadable analysis reports.
-* LLM integration for personalized recommendations
+* LLM integration for personalized recommendations.
 
 ## Author
 
