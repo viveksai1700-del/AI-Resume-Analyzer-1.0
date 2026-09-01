@@ -78,7 +78,7 @@ http://localhost:8501
 ## Future Improvements
 
 * AI-powered resume feedback.
-* Job description upload and matching
+* Job description upload and matching.
 * ATS compatibility analysis
 * Experience and education extraction
 * Resume section analysis
