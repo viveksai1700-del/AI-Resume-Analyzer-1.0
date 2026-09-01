@@ -81,7 +81,7 @@ http://localhost:8501
 * Job description upload and matching.
 * ATS compatibility analysis.
 * Experience and education extraction.
-* Resume section analysis
+* Resume section analysis.
 * Downloadable analysis reports
 * LLM integration for personalized recommendations
 
