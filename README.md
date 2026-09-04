@@ -17,8 +17,8 @@ Users can upload a PDF resume and instantly view:
 
 * PDF resume upload.
 * Automatic resume text extraction.
-* Technical skill detection.gti
-* Resume scoring system....
+* Technical skill detection.
+* Resume scoring system.
 * Improvement suggestions...
 * Simple and responsive Streamlit interface...
 
