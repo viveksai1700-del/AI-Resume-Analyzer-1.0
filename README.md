@@ -20,7 +20,7 @@ Users can upload a PDF resume and instantly view:
 * Technical skill detection.
 * Resume scoring system.
 * Improvement suggestions.
-* Simple and responsive Streamlit interface...
+* Simple and responsive Streamlit interface.
 
 ## Tech Stack
 
